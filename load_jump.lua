@@ -38,4 +38,4 @@ getgenv().Options = {
     ------------------------------------------------
 } -- [[ ! If both usemouse and usekey are true, the script will use usemouse ! ]] --
 
-loadstring(game:HttpGetAsync 'https://github.com/Code1Tech/swordlight_beta/raw/main/betarel')()
+loadstring(game:HttpGetAsync 'https://github.com/Code1Tech/swordlight_beta/raw/main/jump-beta')()
